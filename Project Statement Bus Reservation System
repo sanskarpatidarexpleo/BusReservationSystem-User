@@ -1,0 +1,52 @@
+Project Statement: Bus Reservation System
+
+Group Members-
+Neelabh Shrivastava
+Kunal Waghmare
+Sanskar Patidar
+Deepti Shitole
+
+
+a) Functionalities
+Our Bus Reservation System provides users with the ability to search and book bus tickets for their desired routes. Users can search for buses based on source and destination cities, select travel dates,
+view available bus options, , prefer buss according to travel duration, see the seats which are available,  choose seats, and book ticket.
+
+
+b) Flow of project
+1. Login/registration page-
+Consists of Login option, in case of unregistered user they can first register and then login.
+
+2. Landing Page:
+Consists of search form with input fields for source city, destination city, and travel date.
+Search button to proceed.
+
+3. Search Results Page:
+Display of available buses based on the search criteria.
+Each bus listing shows details like departure time, arrival time, duration, fare.
+Option to select a specific bus for booking.
+
+4. Seat Selection Page:
+Display of bus layout with booked seats & available seats to select from.
+Summary of selected seats and total fare.
+
+5. Passenger Information Page:
+With form to enter info like- no. of passengers, passenger name, phone no., age, gender.
+
+6. Booking Confirmation Page:
+Confirmation message with booking details.
+Option to download/print the booking confirmation ticket.
+
+
+c) Scope of project-
+Inclusions:
+⦁	User registration and login for account management.
+⦁	Search and booking functionality for buses.
+⦁	Booking for multiple passengers.
+⦁	Seat selection, passenger information entry.
+⦁	Confirmation of booking with printable ticket.
+
+Exclusions:
+⦁	Accommodation booking (Hotels, Homestays, etc.).
+⦁	Travel insurance services.
+⦁	Integration with other modes of transportation (Trains, Flights, etc.).
+⦁	Offers and schemes.
